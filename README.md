@@ -27,12 +27,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 To install and run this project you need an editor like Visual Studio Code.
 You need also backfront project.
-you can find the project back with following link : https://github.com/MelanieB74/PFinalAngular
+you can find the project back with following link : https://github.com/MelanieB74/ProjetEscapLife_BackFinal
 
 ## Settings ##
 
 To download the project, clone it from github using the next command:
-$ git clone https://github.com/MelanieB74/PFinalAngular.git
+$ git clone https://github.com/MelanieB74/ProjetEscapLife_FrontFinal.git
 
 
 ## Running the tests ##
@@ -69,13 +69,6 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
